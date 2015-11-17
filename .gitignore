@@ -4,3 +4,8 @@
 *.mode2v3
 xcuserdata
 *~
+Cartfile.resolved
+Carthage/
+DerivedData/
+
+CocoaHTTPServer.framework.zip

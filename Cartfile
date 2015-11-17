@@ -1,2 +1,2 @@
-github "CocoaLumberjack/CocoaLumberjack" "swift_2.0"
-github "robbiehanson/CocoaAsyncSocket" "master"
+github "CocoaLumberjack/CocoaLumberjack" == 2.2.0
+github "carloslozano/CocoaAsyncSocket" == 7.4.2
