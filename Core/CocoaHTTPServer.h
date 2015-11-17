@@ -6,6 +6,8 @@
 //  Copyright © 2015 Robbie Hanson. All rights reserved.
 //
 
+@import Foundation;
+
 //! Project version number for CocoaHTTPServer.
 FOUNDATION_EXPORT double CocoaHTTPServerVersionNumber;
 
