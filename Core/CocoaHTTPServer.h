@@ -6,8 +6,6 @@
 //  Copyright © 2015 Robbie Hanson. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-
 //! Project version number for CocoaHTTPServer.
 FOUNDATION_EXPORT double CocoaHTTPServerVersionNumber;
 
