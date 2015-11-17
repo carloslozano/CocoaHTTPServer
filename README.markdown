@@ -16,6 +16,16 @@ Sometimes developers need an embedded HTTP server in their app. Perhaps it's a s
 -   WebDAV is supported too!
 
 <br/>
+
+## Build it
+
+1. Clone it.
+2. Run ```carthage update```from the project root.
+3. Open in Xcode or run ```carthage build```.
+
+* If you don't have [brew](http://brew.sh/), you should.
+* If you don't have carthage, ```brew update && brew install carthage```.
+
 Can't find the answer to your question in any of the [wiki](https://github.com/robbiehanson/CocoaHTTPServer/wiki) articles? Try the **[mailing list](http://groups.google.com/group/cocoahttpserver)**.
 <br/>
 <br/>
